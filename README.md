@@ -6,4 +6,4 @@ Rutgers University student interested in mechanical design, CAD, robotics, and e
 - Robotics and motion simulation
 - MATLAB, C++, and engineering applications
 - AI and software development
--->
+
