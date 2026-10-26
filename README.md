@@ -1,16 +1,22 @@
-## Hi my name is Andrew👋
+## Hi, I'm Andrew
+Rutgers University student interested in mechanical design, CAD, robotics, and engineering software.
 
-<!--
-**AndrewJ2006/AndrewJ2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Areas of Interest
 
-Here are some ideas to get you started:
+- 3D CAD modeling and mechanical assemblies
+- Robotics and motion simulation
+- MATLAB, C++, and engineering applications
+- AI and software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+### Projects
+ ####  Mechanical Engineering
+- Transforming Sphere Drone — SOLIDWORKS
+- Robotic Arm Design — CAD and Simulation
+- Gas-to-Electric RC Plane Conversion
+- 
+ ####  Computer Science
+engine2 - small game engine
+Chirp - full-stack Twitter clone
+MyAI — a Compute-Constrained AI model with RAG
 -->
